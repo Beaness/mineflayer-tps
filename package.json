@@ -1,0 +1,23 @@
+{
+  "name": "mineflayer-tps",
+  "version": "1.0.0",
+  "description": "A mineflayer plugin to get server tps",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiebeDW/mineflayer-tps.git"
+  },
+  "keywords": [
+    "mineflayer"
+  ],
+  "author": "SiebeDW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SiebeDW/mineflayer-tps/issues"
+  },
+  "homepage": "https://github.com/SiebeDW/mineflayer-tps#readme",
+  "devDependencies": {
+    "mineflayer": "^2.9.6",
+    "standard": "^14.3.1"
+  }
+}
