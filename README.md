@@ -1,6 +1,7 @@
 # mineflayer-tps
 
 A mineflayer plugin to easy get the server tps!
+You can install from [npm](https://www.npmjs.com/package/mineflayer-tps).
 
 ## Usage
 
