@@ -10,7 +10,7 @@ Look at [this](https://github.com/SiebeDW/mineflayer-tps/blob/master/examples/ge
 Or simple:
 ```js
 var mineflayer = require('mineflayer')
-var tpsPlugin = require('tpsPlugin')(mineflayer)
+var tpsPlugin = require('mineflayer-tps')(mineflayer)
 
 var bot = mineflayer.createBot()
 
